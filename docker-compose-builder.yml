@@ -2,7 +2,8 @@ version: "3"
 
 services:
   harvester:
-      image: vicding81/oai-harvester-manager:0.5
+      container_name: harvester
+      build: ./harvester
       tty: true
       command: /tmp/harvester_src/src/main/scripts/do-harvester.sh
       volumes:
