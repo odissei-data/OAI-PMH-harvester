@@ -1,0 +1,1147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+    <header>
+        <identifier>oai:lissdata.nl:24</identifier>
+        <datestamp>2016-11-14</datestamp>
+    </header>
+    <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>LISS panel > What is an Adequate Old-Age Income?</dc:title>
+            <dc:creator>Binswanger</dc:creator>
+            <dc:creator>Johannes</dc:creator>
+            <dc:creator>Schunk</dc:creator>
+            <dc:creator>Daniel</dc:creator>
+            <dc:description>Choice and other types of questions in relation to monthly spending during working life and
+                retirement.
+            </dc:description>
+            <dc:publisher>CentERdata</dc:publisher>
+            <dc:identifier>http://www.dataarchive.lissdata.nl/study_units/view/24</dc:identifier>
+            <dc:rights>2009 CentERdata</dc:rights>
+        </oai_dc:dc>
+    </metadata>
+    <questions>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1451</identifier>
+            <questionname>introduction</questionname>
+            <language>en</language>
+            <questiontext>This questionnaire is about some important elements from retirements and retirement
+                facilities. The following questions are about the financial needs of you [and your partner/spouse]
+                during retirement. Please assume for all the questions that prices of the things you spend your money on
+                remain the same in the future as today; that is, please answer the questions as if there will be (no
+                inflation).
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1451</identifier>
+            <questionname>introduction</questionname>
+            <language>nl</language>
+            <questiontext>Deze vragenlijst gaat over enkele belangrijke elementen van pensioenen en
+                pensioenvoorzieningen. De volgende vragen gaan over [uw/uw en uw partners] financiële behoefte tijdens
+                uw pensioen. Wilt u er bij alle vragen in deze vragenlijst van uit gaan dat de prijzen van dingen waar u
+                geld aan uitgeeft in de toekomst hetzelfde zijn als nu (geen inflatie).
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1452</identifier>
+            <questionname>aa059</questionname>
+            <language>en</language>
+            <questiontext>How much have you thought about retirement?</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1452</identifier>
+            <questionname>aa059</questionname>
+            <language>nl</language>
+            <questiontext>Hoeveel hebt u over uw oudedag nagedacht?</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1453</identifier>
+            <questionname>aa060</questionname>
+            <language>en</language>
+            <questiontext>To what degree do you agree or disagree with the following statement: When retired, [my
+                partner/spouse and] I would be ready to move to another apartment or house in order to reduce spending
+                on housing.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1453</identifier>
+            <questionname>aa060</questionname>
+            <language>nl</language>
+            <questiontext>In welke mate bent u het eens of oneens met de volgende stelling: Als [ik/ik en mijn partner]
+                gepensioneerd [ben/zijn], [ben/zijn] [ik/wij] bereid te verhuizen naar een ander appartement of huis om
+                de woonlasten te verlagen.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1454</identifier>
+            <questionname>aa061</questionname>
+            <language>en</language>
+            <questiontext>Please think about the first ten years when you will be retired. How do you expect housing
+                costs to be for you [and your partner/spouse]? Will they be lower than today, about equal, or higher?
+                Please take into account any costs related to housing, such as rental payments, interest payments for
+                mortgages, repair costs etc.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1454</identifier>
+            <questionname>aa061</questionname>
+            <language>nl</language>
+            <questiontext>Als u denkt aan de eerste 10 jaar dat u gepensioneerd bent, hoe hoog denkt u dat [uw/uw en uw
+                partners] woonlasten dan zullen zijn? Zullen ze lager, ongeveer gelijk, of hoger zijn dan nu? Houdt u
+                alstublieft rekening met alle kosten gerelateerd aan uw woning (zoals huur, hypotheekrente,
+                reparatiekosten etc.).
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1455</identifier>
+            <questionname>aa062</questionname>
+            <language>en</language>
+            <questiontext>Can you tell us roughly by how much you expect housing costs to be lower (higher)? Please
+                indicate an annual amount.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1455</identifier>
+            <questionname>aa062</questionname>
+            <language>nl</language>
+            <questiontext>Kunt u aangeven hoeveel u denkt dat uw woonlasten [lager/hoger] zullen zijn? Geeft u een
+                bedrag per jaar.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1456</identifier>
+            <questionname>aa063</questionname>
+            <language>en</language>
+            <questiontext>This question refers to the overall level of spending that applies to you [and your
+                partner/spouse] during retirement. What is the minimal level of monthly spending that you would never
+                want to fall below during retirement, at all costs? Please think of all your expenditures, such as food,
+                clothing, housing, insurance etc. Remember, please assume that prices of the things you spend your money
+                on remain the same in the future as today (i.e., no inflation).
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1456</identifier>
+            <questionname>aa063</questionname>
+            <language>nl</language>
+            <questiontext>Deze vraag gaat over het totaal aan uitgaven [van u/van u en uw partner]tijdens uw pensioen.
+                Wat is het minimale bedrag dat [u/u en uw partner] per se per maand [zou/zouden] willen besteden tijdens
+                uw pensioen? Denkt u aan al uw uitgaven: eten en drinken, kleding, huisvesting, verzekering etc. Ga
+                ervan uit dat de prijzen van dingen waar u geld aan uitgeeft in de toekomst hetzelfde zijn als nu (geen
+                inflatie).
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1457</identifier>
+            <questionname>aa064</questionname>
+            <language>en</language>
+            <questiontext>Is this minimal amount of spending during retirement lower, about equal, or higher than your
+                current spending?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1457</identifier>
+            <questionname>aa064</questionname>
+            <language>nl</language>
+            <questiontext>Kunt u aangeven of dit minimale bedrag aan bestedingen tijdens uw pensioen lager, ongeveer
+                gelijk, of hoger is dan uw huidige bestedingen?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1458</identifier>
+            <questionname>aa065</questionname>
+            <language>en</language>
+            <questiontext>How much lower do you think this minimal amount of spending during retirement would be? More
+                than [aa040] euro lower than your current monthly spending or less than [aa040] euro lower?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1458</identifier>
+            <questionname>aa065</questionname>
+            <language>nl</language>
+            <questiontext>[Hoeveel lager is dit minimale bedrag aan bestedingen dan uw huidige bestedingen?/Hoeveel
+                lager denkt u dat dit minimale bedrag aan bestedingen tijdens uw pensioen zal zijn?] Meer dan [aa040]
+                euro lager dan uw huidige bestedingen per maand of minder dan [aa040] euro lager?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1459</identifier>
+            <questionname>aa066-aa070</questionname>
+            <language>en</language>
+            <questiontext>How did you come up with an answer to the question on a minimum amount of spending that you
+                would never want to be undercut? To what extent do the following statements describe how you were
+                thinking?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1459</identifier>
+            <questionname>aa066-aa070</questionname>
+            <language>nl</language>
+            <questiontext>Hoe bent u tot dit minimale bedrag aan bestedingen tijdens uw pensioen gekomen? Kunt u
+                aangeven in hoeverre de volgende stellingen uw manier van denken beschrijven?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1460</identifier>
+            <questionname>aa071</questionname>
+            <language>en</language>
+            <questiontext>[Please assume that you are not retired yet] Next you will find four options for how you could
+                spend your money over your lifetime. For each option the first column indicates how much [you (if
+                respondent has no spouse/partner) / your household (if respondent has a spouse/partner) ] could spend on
+                average per month from age 25 until retirement. Thus, this refers to your total (working) time from age
+                25 until retirement, [add only if not retired: NOT just the remaining (working) time]. The second column
+                indicates how much [you (if respondent has no partner)/ your household (if respondent has a partner)]
+                could spend during retirement. Please think of all your expenditures, such as food, clothing, housing,
+                insurance, traveling etc. Assume that the numbers below show what you can spend after having already
+                paid for taxes. Assume also that prices of the things you spend your money on remain the same in the
+                future as today (i.e., no inflation). If you had a choice, which option would you like most? Monthly
+                spending during working life (age 25 until retirement), in euro’s Monthly spending during retirement, in
+                euro’s Option A: [aa018, prof1_1w] [aa019, prof1_1r] Option B: [aa020, prof1_2w] [aa021, prof1_2r]
+                Option C: [aa022, prof1_3w] [aa023, prof1_3r] Option D: [aa024, prof1_4w] [aa025, prof1_4r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1460</identifier>
+            <questionname>aa071</questionname>
+            <language>nl</language>
+            <questiontext>[/Gaat u er nu van uit dat u nog niet met pensioen zou zijn.] Hieronder vindt u vier
+                mogelijkheden hoe u uw geld zou kunnen uitgeven tijdens uw leven. De eerste kolom geeft de gemiddelde
+                uitgaven van de verschillende mogelijkheden weer [/van uw huishouden] van uw 25e levensjaar tot uw
+                pensioen. Het gaat hier dus om uw totale (arbeids)leven van 25 jaar tot uw pensioen, en NIET om uw
+                resterende (arbeids)leven. In de tweede kolom staat hoeveel [u/u en uw partner] kunnen zijn tijdens uw
+                pensioen. Denkt u aan al uw uitgaven: eten en drinken, kleding, huisvesting, verzekering, reiskosten
+                etc.. Gaat u er verder van uit dat onderstaande bedragen na aftrek van belastingen zijn. Ga er ook van
+                uit dat de prijzen van dingen waar u geld aan uitgeeft in de toekomst hetzelfde zijn als nu (geen
+                inflatie). Als u kon kiezen, welke mogelijkheid zou u het liefste hebben? maandelijkse uitgaven in
+                euro's gedurende arbeidsleven (van 25 jaar tot pensioen) maandelijkse uitgaven in euro's gedurende
+                pensioen Mogelijkheid A: [aa018, prof1_1w] [aa019, prof1_1r] Mogelijkheid B: [aa020, prof1_2w] [aa021,
+                prof1_2r] Mogelijkheid C: [aa022, prof1_3w] [aa023, prof1_3r] Mogelijkheid D: [aa024, prof1_4w] [aa025,
+                prof1_4r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1461</identifier>
+            <questionname>aa072</questionname>
+            <language>en</language>
+            <questiontext>What is your second choice?</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1461</identifier>
+            <questionname>aa072</questionname>
+            <language>nl</language>
+            <questiontext>En wat is uw tweede keus?</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1462</identifier>
+            <questionname>aa073</questionname>
+            <language>en</language>
+            <questiontext>[Please assume that you are not retired yet] Next you will find four options for how you could
+                spend your money over your lifetime. For each option the first column indicates how much [you (if
+                respondent has no spouse/partner) / your household (if respondent has a spouse/partner)] could spend on
+                average per month from age 25 until retirement. Thus, this refers to your total (working) time from age
+                25 until retirement, [add only if not retired: NOT just the remaining (working) time]. The second column
+                indicates how much [you (if respondent has no partner)/ your household (if respondent has a partner)]
+                could spend during retirement. Please think of all your expenditures, such as food, clothing, housing,
+                insurance, traveling etc. Assume that the numbers below show what you can spend after having already
+                paid for taxes. Assume also that prices of the things you spend your money on remain the same in the
+                future as today (i.e., no inflation). If you had a choice, which option would you like most? Monthly
+                spending during working life (age 25 until retirement), in euro’s Monthly spending during retirement, in
+                euro’s Option A: [aa024, prof1_4w] [aa025, prof1_4r] Option B: [aa022, prof1_3w] [aa023, prof1_3r]
+                Option C: [aa020, prof1_2w] [aa021, prof1_2r] Option D: [aa018, prof1_1w] [aa019, prof1_1r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1462</identifier>
+            <questionname>aa073</questionname>
+            <language>nl</language>
+            <questiontext>[/Gaat u er nu van uit dat u nog niet met pensioen zou zijn.] Hieronder vindt u vier
+                mogelijkheden hoe u uw geld zou kunnen uitgeven tijdens uw leven. De eerste kolom geeft de gemiddelde
+                uitgaven van de verschillende mogelijkheden weer [/van uw huishouden] van uw 25e levensjaar tot uw
+                pensioen. Het gaat hier dus om uw totale (arbeids)leven van 25 jaar tot uw pensioen, en NIET om uw
+                resterende (arbeids)leven. In de tweede kolom staat hoeveel [u/u en uw partner] kunnen zijn tijdens uw
+                pensioen. Denkt u aan al uw uitgaven: eten en drinken, kleding, huisvesting, verzekering, reiskosten
+                etc.. Gaat u er verder van uit dat onderstaande bedragen na aftrek van belastingen zijn. Ga er ook van
+                uit dat de prijzen van dingen waar u geld aan uitgeeft in de toekomst hetzelfde zijn als nu (geen
+                inflatie). Als u kon kiezen, welke mogelijkheid zou u het liefste hebben? maandelijkse uitgaven in
+                euro's gedurende arbeidsleven (van 25 jaar tot pensioen) maandelijkse uitgaven in euro's gedurende
+                pensioen Mogelijkheid A: [aa024, prof1_4w] [aa025, prof1_4r] Mogelijkheid B: [aa022, prof1_3w] [aa023,
+                prof1_3r] Mogelijkheid C: [aa020, prof1_2w] [aa021, prof1_2r] Mogelijkheid D: [aa018, prof1_1w] [aa019,
+                prof1_1r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1463</identifier>
+            <questionname>aa074</questionname>
+            <language>en</language>
+            <questiontext>What is your second choice?</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1463</identifier>
+            <questionname>aa074</questionname>
+            <language>nl</language>
+            <questiontext>En wat is uw tweede keus?</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1464</identifier>
+            <questionname>aa075</questionname>
+            <language>en</language>
+            <questiontext>You chose option A [aa018] euro during working life and [aa019] euro during retirement. If you
+                had a choice between this option and a further new option (Z, see the table below), which one would you
+                choose? Monthly spending during working life (age 25 until retirement), in euro’s Monthly spending
+                during retirement, in euro’s Option A: [aa018, prof1_1w] [aa019, prof1_1r] Option Z: [aa016, prof1_0w]
+                [aa017, prof1_0r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1464</identifier>
+            <questionname>aa075</questionname>
+            <language>nl</language>
+            <questiontext>Uw eerste keuze was mogelijkheid A: [aa018] euro gedurende uw arbeidsleven en [aa019] euro
+                gedurende uw pensioen. Als u kon kiezen tussen deze mogelijkheid en een andere nieuwe mogelijkheid (Z),
+                zie de tabel hieronder, welke zou u dan kiezen? maandelijkse uitgaven in euro's gedurende arbeidsleven
+                (van 25 jaar tot pensioen) maandelijkse uitgaven in euro's gedurende pensioen Mogelijkheid A: [aa018,
+                prof1_1w] [aa019, prof1_1r] Mogelijkheid Z: [aa016, prof1_0w] [aa017, prof1_0r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1465</identifier>
+            <questionname>aa076</questionname>
+            <language>en</language>
+            <questiontext>You chose option D [aa024] euro during working life and [aa025] euro during retirement. If you
+                had a choice between this option and a further new option (Z, see the table below), which one would you
+                choose? Monthly spending during working life (age 25 until retirement), in euro’s Monthly spending
+                during retirement, in euro’s Option D: [aa024, prof1_4w] [aa025, prof1_4r] Option Z: [aa026, prof1_5w]
+                [aa027, prof1_5r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1465</identifier>
+            <questionname>aa076</questionname>
+            <language>nl</language>
+            <questiontext>Uw eerste keuze was mogelijkheid D: [aa024] euro gedurende uw arbeidsleven en [aa025] euro
+                gedurende uw pensioen. Als u kon kiezen tussen deze mogelijkheid en een andere nieuwe mogelijkheid (Z),
+                zie de tabel hieronder, welke zou u dan kiezen? maandelijkse uitgaven in euro's gedurende arbeidsleven
+                (van 25 jaar tot pensioen) maandelijkse uitgaven in euro's gedurende pensioen Mogelijkheid D: [aa024,
+                prof1_4w] [aa025, prof1_4r] Mogelijkheid Z: [aa026, prof1_5w] [aa027, prof1_5r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1466</identifier>
+            <questionname>aa077</questionname>
+            <language>en</language>
+            <questiontext>You chose option A: [aa024] euro during working life and [aa025] euro during retirement. If
+                you had a choice between this option and a further new option (Z, see the table below), which one would
+                you choose? Monthly spending during working life (age 25 until retirement), in euro’s Monthly spending
+                during retirement, in euro’s Option A: [aa024, prof1_4w] [aa025, prof1_4r] Option Z: [aa026, prof1_5w]
+                [aa027, prof1_5r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1466</identifier>
+            <questionname>aa077</questionname>
+            <language>nl</language>
+            <questiontext>Uw eerste keuze was mogelijkheid A: [aa024] euro gedurende uw arbeidsleven en [aa025] euro
+                gedurende uw pensioen. Als u kon kiezen tussen deze mogelijkheid en een andere nieuwe mogelijkheid (Z),
+                zie de tabel hieronder, welke zou u dan kiezen? maandelijkse uitgaven in euro's gedurende arbeidsleven
+                (van 25 jaar tot pensioen) maandelijkse uitgaven in euro's gedurende pensioen Mogelijkheid A: [aa024,
+                prof1_4w] [aa025, prof1_4r] Mogelijkheid Z: [aa026, prof1_5w] [aa027, prof1_5r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1467</identifier>
+            <questionname>aa078</questionname>
+            <language>en</language>
+            <questiontext>You chose option D: [aa018] euro during working life and [aa019] euro during retirement). If
+                you had a choice between this option and a further new option (Z, see the table below), which one would
+                you choose? Monthly spending during working life (age 25 until retirement), in euro’s Monthly spending
+                during retirement, in euro’s Option D: [aa018, prof1_1w] [aa019, prof1_1r] Option Z: [aa016, prof1_0w]
+                [aa017, prof1_0r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1467</identifier>
+            <questionname>aa078</questionname>
+            <language>nl</language>
+            <questiontext>You chose option D: [aa018] euro during working life and [aa019] euro during retirement). If
+                you had a choice between this option and a further new option (Z, see the table below), which one would
+                you choose? Monthly spending during working life (age 25 until retirement), in euro’s Monthly spending
+                during retirement, in euro’s Option D: [aa018, prof1_1w] [aa019, prof1_1r] Option Z: [aa016, prof1_0w]
+                [aa017, prof1_0r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1468</identifier>
+            <questionname>aa079</questionname>
+            <language>en</language>
+            <questiontext>Next, you will again find tables like those in the last question but with different numbers.
+                If you had a choice, which option would you like most? Monthly spending during working life (age 25
+                until retirement), in euro’s Monthly spending during retirement, in euro’s Option A: [aa030, prof2_1w]
+                [aa031, prof2_1r] Option B: [aa032, prof2_2w] [aa033, prof2_2r] Option C: [aa034, prof2_3w] [aa035,
+                prof2_3r] Option D: [aa036, prof2_4w] [aa037, prof2_4r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1468</identifier>
+            <questionname>aa079</questionname>
+            <language>nl</language>
+            <questiontext>Hieronder vindt u een zelfde type tabel als bij de vorige vragen maar dan met andere getallen.
+                Als u kon kiezen, welke mogelijkheid zou u nu het liefste hebben? maandelijkse uitgaven in euro's
+                gedurende arbeidsleven (van 25 jaar tot pensioen) maandelijkse uitgaven in euro's gedurende pensioen
+                Mogelijkheid A: [aa030, prof2_1w] [aa031, prof2_1r] Mogelijkheid B: [aa032, prof2_2w] [aa033, prof2_2r]
+                Mogelijkheid C: [aa034, prof2_3w] [aa035, prof2_3r] Mogelijkheid D: [aa036, prof2_4w] [aa037, prof2_4r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1469</identifier>
+            <questionname>aa080</questionname>
+            <language>en</language>
+            <questiontext>What is your second choice?</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1469</identifier>
+            <questionname>aa080</questionname>
+            <language>nl</language>
+            <questiontext>En wat is uw tweede keus?</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1470</identifier>
+            <questionname>aa081</questionname>
+            <language>en</language>
+            <questiontext>Next, you will again find tables like those in the last question but with different numbers.
+                If you had a choice, which option would you like most? Monthly spending during working life (age 25
+                until retirement), in euro’s Monthly spending during retirement, in euro’s Option A: [aa036, prof2_4w]
+                [aa037, prof2_4r] Option B: [aa034, prof2_3w] [aa035, prof2_3r] Option C: [aa032, prof2_2w] [aa033,
+                prof2_2r] Option D: [aa030, prof2_1w] [aa031, prof2_1r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1470</identifier>
+            <questionname>aa081</questionname>
+            <language>nl</language>
+            <questiontext>Hieronder vindt u een zelfde type tabel als bij de vorige vragen maar dan met andere getallen.
+                Als u kon kiezen, welke mogelijkheid zou u nu het liefste hebben? maandelijkse uitgaven in euro's
+                gedurende arbeidsleven (van 25 jaar tot pensioen) maandelijkse uitgaven in euro's gedurende pensioen
+                Mogelijkheid A: [aa036, prof2_4w] [aa037, prof2_4r] Mogelijkheid B: [aa034, prof2_3w] [aa035, prof2_3r]
+                Mogelijkheid C: [aa032, prof2_2w] [aa033, prof2_2r] Mogelijkheid D: [aa030, prof2_1w] [aa031, prof2_1r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1471</identifier>
+            <questionname>aa082</questionname>
+            <language>en</language>
+            <questiontext>What is your second choice?</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1471</identifier>
+            <questionname>aa082</questionname>
+            <language>nl</language>
+            <questiontext>En wat is uw tweede keus?</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1472</identifier>
+            <questionname>aa083</questionname>
+            <language>en</language>
+            <questiontext>You chose option A: [aa030] euro during working life and [aa031] euro during retirement. If
+                you had a choice between this option and a further new option (Z, see the table below), which one would
+                you choose? Monthly spending during working life (age 25 until retirement), in euro’s Monthly spending
+                during retirement, in euro’s Option A: [aa030, prof2_1w] [aa031, prof2_1r] Option Z: [aa028, prof2_0w]
+                [aa029, prof2_0r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1472</identifier>
+            <questionname>aa083</questionname>
+            <language>nl</language>
+            <questiontext>Uw eerste keuze was mogelijkheid A: [aa030] euro gedurende uw arbeidsleven en [aa031] euro
+                gedurende uw pensioen. Als u kon kiezen tussen deze mogelijkheid en een andere nieuwe mogelijkheid (Z),
+                zie de tabel hieronder, welke zou u dan kiezen? maandelijkse uitgaven in euro's gedurende arbeidsleven
+                (van 25 jaar tot pensioen) maandelijkse uitgaven in euro's gedurende pensioen Mogelijkheid A: [aa030,
+                prof2_1w] [aa031, prof2_1r] Mogelijkheid Z: [aa028, prof2_0w] [aa029, prof2_0r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1473</identifier>
+            <questionname>aa084</questionname>
+            <language>en</language>
+            <questiontext>You chose option D: [aa08036] euro during working life and [aa037] euro during retirement. If
+                you had a choice between this option and a further new option (Z, see the table below), which one would
+                you choose? Monthly spending during working life (age 25 until retirement), in euro’s Monthly spending
+                during retirement, in euro’s Option D: [aa036, prof2_4w] [aa037, prof2_4r] Option Z: [aa038, prof2_5w]
+                [aa039, prof2_5r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1473</identifier>
+            <questionname>aa084</questionname>
+            <language>nl</language>
+            <questiontext>Uw eerste keuze was mogelijkheid D: [aa036] euro gedurende uw arbeidsleven en [aa037] euro
+                gedurende uw pensioen. Als u kon kiezen tussen deze mogelijkheid en een andere nieuwe mogelijkheid (Z),
+                zie de tabel hieronder, welke zou u dan kiezen? maandelijkse uitgaven in euro's gedurende arbeidsleven
+                (van 25 jaar tot pensioen) maandelijkse uitgaven in euro's gedurende pensioen Mogelijkheid D: [aa036,
+                prof2_4w] [aa037, prof2_4r] Mogelijkheid Z: [aa038, prof2_5w] [aa039, prof2_5r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1474</identifier>
+            <questionname>aa085</questionname>
+            <language>en</language>
+            <questiontext>You chose option A: [aa036] euro during working life and [aa037] euro during retirement. If
+                you had a choice between this option and a further new option (Z, see the table below), which one would
+                you choose? Monthly spending during working life (age 25 until retirement), in euro’s Monthly spending
+                during retirement, in euro’s Option A: [aa036, prof2_4w] [aa037, prof2_4r] Option Z: [aa038, prof2_5w]
+                [aa039, prof2_5r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1474</identifier>
+            <questionname>aa085</questionname>
+            <language>nl</language>
+            <questiontext>Uw eerste keuze was mogelijkheid A: [aa036] euro gedurende uw arbeidsleven en [aa037] euro
+                gedurende uw pensioen. Als u kon kiezen tussen deze mogelijkheid en een andere nieuwe mogelijkheid (Z),
+                zie de tabel hieronder, welke zou u dan kiezen? maandelijkse uitgaven in euro's gedurende arbeidsleven
+                (van 25 jaar tot pensioen) maandelijkse uitgaven in euro's gedurende pensioen Mogelijkheid A: [aa036,
+                prof2_4w] [aa037, prof2_4r] Mogelijkheid Z: [aa038, prof2_5w] [aa039, prof2_5r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1475</identifier>
+            <questionname>aa086</questionname>
+            <language>en</language>
+            <questiontext>You chose option D: [aa030] euro during working life and [aa031] euro retirement. If you had a
+                choice between this option and a further new option (Z, see the table below), which one would you
+                choose? Monthly spending during working life (age 25 until retirement), in euro’s Monthly spending
+                during retirement, in euro’s Option D: [aa030, prof2_1w] [aa031, prof2_1r] Option Z: [aa028, prof2_0w]
+                [aa029, prof2_0r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1475</identifier>
+            <questionname>aa086</questionname>
+            <language>nl</language>
+            <questiontext>Uw eerste keuze was mogelijkheid D: [aa030] euro gedurende uw arbeidsleven en [aa031] euro
+                gedurende uw pensioen. Als u kon kiezen tussen deze mogelijkheid en een andere nieuwe mogelijkheid (Z),
+                zie de tabel hieronder, welke zou u dan kiezen? maandelijkse uitgaven in euro's gedurende arbeidsleven
+                (van 25 jaar tot pensioen) maandelijkse uitgaven in euro's gedurende pensioen Mogelijkheid D: [aa030,
+                prof2_1w] [aa031, prof2_1r] Mogelijkheid Z: [aa028, prof2_0w] [aa029, prof2_0r]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1476</identifier>
+            <questionname>aa087</questionname>
+            <language>en</language>
+            <questiontext>With respect to the previous questions about spending during working life and during
+                retirement, how much do you agree or disagree with the following statement: Even if I spent long time
+                thinking about those questions, I would not know what I should answer.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1476</identifier>
+            <questionname>aa087</questionname>
+            <language>nl</language>
+            <questiontext>Wat betreft de vorige vragen over uitgaven gedurende uw arbeidsleven en pensioen, in hoeverre
+                bent u het eens of oneens met de volgende stelling: Zelfs als ik lang over de vragen nadenk, weet ik
+                niet wat ik eigenlijk zou moeten antwoorden.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1477</identifier>
+            <questionname>introduction</questionname>
+            <language>en</language>
+            <questiontext>The future is uncertain. It is not possible to know today with full certainty how much money
+                will be available to you [and your partner/spouse] during retirement. The total amount of money that
+                will be available to you [and your partner/spouse] (including pensions, income from personal savings,
+                wealth etc.) will depend, among other things, on how the economy will perform-e.g. how wages, interest
+                rates, and financial returns will develop. The next questions refer to this aspect.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1477</identifier>
+            <questionname>introduction</questionname>
+            <language>nl</language>
+            <questiontext>De toekomst is onzeker. Het is onmogelijk om vandaag met absolute zekerheid te weten hoeveel
+                geld [u/u en uw partner] in de toekomst ter beschikking [zal/zullen] hebben gedurende uw pensioen. Het
+                totale inkomen (inclusief pensioen, rente, etc.) dat [u/u en uw partner] ter beschikking [zal/zullen]
+                hebben hangt onder andere af van de economische ontwikkelingen, bv. hoe loon, rente e.d. zich zullen
+                ontwikkelen. De volgende vragen gaan over dit aspect.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1478</identifier>
+            <questionname>aa088-aa092</questionname>
+            <language>en</language>
+            <questiontext>How satisfied would you be with each of the following scenarios [from the perspective of
+                today?/from the perspective of your previous working life?] Please assume that the numbers you see below
+                include money available to you from all sources that you may have during retirement. Assume that no
+                additional money will be available to you from spending down your wealth. All amounts are net of taxes
+                and refer to what is available to you [and your partner/spouse].
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1478</identifier>
+            <questionname>aa088-aa092</questionname>
+            <language>nl</language>
+            <questiontext>Hoe tevreden zou u zijn met elk van de volgende scenario's als u die nu zou moeten beoordelen?
+                Gaat u ervan uit dat de volgende bedragen alle inkomsten tijdens uw pensioen omvatten. Gaat u er
+                eveneens van uit dat deze bedragen na aftrek van belastingen (netto) zijn en over [uzelf/u en uw
+                partner] gaan. [/Het gaat dus om het totale inkomen van uw huishouden, waarbij er dus geen andere
+                inkomstenbronnen zijn.]
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1479</identifier>
+            <questionname>aa093</questionname>
+            <language>en</language>
+            <questiontext>With respect to the previous questions about uncertain incomes during retirement, how much do
+                you agree or disagree with the following statement: Even if I spent long time thinking about those
+                questions, I would not know what I should answer.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1479</identifier>
+            <questionname>aa093</questionname>
+            <language>nl</language>
+            <questiontext>Wat betreft de laatste vragen over onzeker pensioeninkomen, in hoeverre bent u het eens of
+                oneens met de volgende stelling: Zelfs als ik lang over de vragen nadenk, weet ik niet wat ik eigenlijk
+                zou moeten antwoorden.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1480</identifier>
+            <questionname>aa094-aa098</questionname>
+            <language>en</language>
+            <questiontext>In the following table we present five choices to you. You can always choose between two
+                different types of income during retirement, income of type A and of type B. Please assume that these
+                incomes include all sources of money that is available to you during retirement. In particular, there is
+                no additional money available from spending down your wealth. If you choose income type A, the total
+                income during retirement for you [and your partner/spouse] will always be [aa051] euro per month,
+                independent of the performance of the economy. If you choose type B, the total income during retirement
+                for you [and your partner/spouse] depends on the performance of the economy (e.g. on returns in
+                financial markets). If the economic performance is unfavorable it will be [aa052] euro per month. If the
+                performance is favorable it will be [aa053] euro per month. The five choices differ only in terms of the
+                chance Which income type would you choose?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1480</identifier>
+            <questionname>aa094-aa098</questionname>
+            <language>nl</language>
+            <questiontext>In de volgende tabel leggen we u 5 keuzes voor. U kunt telkens kiezen uit twee verschillende
+                pensioeninkomens, A en B. Ga er hierbij van uit dat deze alle inkomsten tijdens uw pensioen omvatten.
+                Als u voor A kiest zal het totale pensioeninkomen [/van uw partner en u samen] altijd [aa051] euro zijn
+                per maand ongeacht de economische ontwikkeling. Als u voor B kiest zal [ u/uw en uw partners] totale
+                pensioeninkomen afhangen van de economische ontwikkeling (bv. opbrengsten op de financiële markten). Als
+                de economische ontwikkeling slecht is, zal het totale pensioeninkomen [/van uw partner en u samen]
+                [aa052] euro per maand zijn. Als de economische ontwikkeling goed is, zal het totale pensioeninkomen
+                [/van uw partner en u samen] [aa053] euro per maand zijn. De 5 vragen verschillen alleen in de kans dat
+                de economische ontwikkeling goed of slecht zal zijn. Voor welke mogelijkheid kiest u?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1481</identifier>
+            <questionname>aa099-aa103</questionname>
+            <language>en</language>
+            <questiontext>In the following table we present five choices to you. You can always choose between two
+                different types of income during retirement, income of type A and of type B. Please assume that these
+                incomes include all sources of money that is available to you during retirement. In particular, there is
+                no additional money available from spending down your wealth. If you choose income type A, the total
+                income during retirement for you [and your partner/spouse] depends on the performance of the economy
+                (e.g. on returns in financial markets). If the economic performance is unfavorable it will be [aa052]
+                euro per month. If the performance is favorable it will be [aa053] euro per month. If you choose type B,
+                the total income during retirement for you [and your partner/spouse] will always be [aa051] euro per
+                month, independent of the performance of the economy. The five choices differ only in terms of the
+                chanceWhich income type would you choose?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1481</identifier>
+            <questionname>aa099-aa103</questionname>
+            <language>nl</language>
+            <questiontext>In de volgende tabel leggen we u 5 keuzes voor. U kunt telkens kiezen uit twee verschillende
+                pensioeninkomens, A en B. Ga er hierbij van uit dat deze alle inkomsten tijdens uw pensioen omvatten.
+                Als u voor A kiest zal het totale pensioeninkomen [/van uw partner en u samen] afhangen van de
+                economische ontwikkeling (bv. opbrengsten op de financiële markten). Als de economische ontwikkeling
+                slecht is, zal het totale pensioeninkomen [/van uw partner en u samen] [aa052] euro per maand zijn. Als
+                de economische ontwikkeling goed is, zal het totale pensioeninkomen [/van uw partner en u samen] [aa053]
+                euro per maand zijn. Als u voor B kiest zal uw totale pensioeninkomen altijd [aa051] euro per maand zijn
+                ongeacht de economische ontwikkeling. De 5 vragen verschillen alleen in de kans dat de economische
+                ontwikkeling goed of slecht zal zijn. Voor welke mogelijkheid kiest u?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1482</identifier>
+            <questionname>aa104</questionname>
+            <language>en</language>
+            <questiontext>With respect to the previous questions about safe and risky incomes during retirement, how
+                much do you agree or disagree with the following statement: Even if I spent long time thinking about
+                those questions, I would not know what I should answer.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1482</identifier>
+            <questionname>aa104</questionname>
+            <language>nl</language>
+            <questiontext>Wat betreft de vorige vragen over veilige en risicovolle inkomens, in hoeverre bent u het eens
+                of oneens met de volgende stelling: Zelfs als ik lang over de vragen nadenk, weet ik niet wat ik
+                eigenlijk zou moeten antwoorden.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1483</identifier>
+            <questionname>aa105</questionname>
+            <language>en</language>
+            <questiontext>In the table below you find the spending levels during working life and retirement of two
+                persons, let us call them Wim and Jan. Monthly spending during working life (age 25 until retirement),
+                in euro’s Monthly spending during retirement, in euro’s Wim [aa054, spendw_wim] [aa056, spendr] Jan
+                [aa055, spendw_jan] [aa056, spendr] Wim and Jan are both retired. How much do you agree or disagree with
+                the following statement: It is obvious that Jan will be much more satisfied with his financial situation
+                during retirement than Wim.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1483</identifier>
+            <questionname>aa105</questionname>
+            <language>nl</language>
+            <questiontext>Hieronder vindt u de uitgaven gedurende het arbeidsleven en pensioen van twee personen, laten
+                we ze Wim en Jan noemen. maandelijkse uitgaven in euro's gedurende arbeidsleven (van 25 jaar tot
+                pensioen) maandelijkse uitgaven in euro's gedurende pensioen Wim [aa054, spendw_wim] [aa056, spendr] Jan
+                [aa055, spendw_jan] [aa056, spendr] Wim en Jan zijn beiden gepensioneerd. In welke mate bent u het eens
+                of oneens met de volgende stelling: Het is duidelijk dat Jan veel tevredener is met zijn financiële
+                situatie tijdens zijn pensioen dan Wim.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1484</identifier>
+            <questionname>aa106-aa110</questionname>
+            <language>en</language>
+            <questiontext>How much do you agree or disagree with the following statement:</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1484</identifier>
+            <questionname>aa106-aa110</questionname>
+            <language>nl</language>
+            <questiontext>In welke mate bent u het eens of oneens met de volgende stellingen:</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1485</identifier>
+            <questionname>aa111</questionname>
+            <language>en</language>
+            <questiontext>We have one final question to you on a completely different topic: Climate change. The risks
+                of climate change and global warming are heavily discussed in the media these days. Suppose that there
+                exists a new technology that will make sure that our climate does not deteriorate. What were you willing
+                to pay monthly to contribute to financing this technology?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1485</identifier>
+            <questionname>aa111</questionname>
+            <language>nl</language>
+            <questiontext>Deze allerlaatste vraag gaat over een heel ander onderwerp: klimaatverandering. De risico's
+                van klimaatverandering en het broeikaseffect worden vaak besproken in de media. Stelt u zich eens voor
+                dat er een nieuwe technologie bestaat die ervoor zorgt dat ons klimaat niet verder verslechtert. Wat zou
+                u per maand willen betalen om bij te dragen aan de financiering van deze technologie?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1486</identifier>
+            <questionname>aa112</questionname>
+            <language>en</language>
+            <questiontext>We have one final question to you on a completely different topic: Climate change. The risks
+                of climate change and global warming are heavily discussed in the media these days, and there is wide
+                agreement that it will require joint efforts of all countries in the world to get the possible dangers
+                under control. Suppose that there exists a new technology that will make sure that our climate does not
+                deteriorate. What were you willing to pay monthly to contribute to financing this technology?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1486</identifier>
+            <questionname>aa112</questionname>
+            <language>nl</language>
+            <questiontext>Deze allerlaatste vraag gaat over een heel ander onderwerp: klimaatverandering. De risico's
+                van klimaatverandering en het broeikaseffect worden vaak besproken in de media. Er is algehele
+                overeenstemming dat alle landen in de wereld zich gezamelijk in moeten spannen om de mogelijke gevaren
+                onder controle te krijgen. Stelt u zich eens voor dat er een nieuwe technologie bestaat die ervoor zorgt
+                dat ons klimaat niet verder verslechtert. Wat zou u per maand willen betalen om bij te dragen aan de
+                financiering van deze technologie?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1487</identifier>
+            <questionname>aa113</questionname>
+            <language>en</language>
+            <questiontext>We have one final question to you on a completely different topic. Our society faces many
+                problems that are quite frequently discussed in the media there days. Addressing these problems will
+                involve money that, finally, will be paid by you the taxpayer. These problems include the reduction of
+                crime, reducing environmental problems, the improvement of health care, the improvement of income
+                security, and pension reform, among others. We have a question to you about climate change.
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1487</identifier>
+            <questionname>aa113</questionname>
+            <language>nl</language>
+            <questiontext>Deze allerlaatste vraag gaat over een heel ander onderwerp. Onze maatschappij kent vele
+                problemen die vaak besproken worden in de media. Om deze problemen aan te pakken is geld nodig dat,
+                uiteindelijk, betaald wordt door u als belastingbetaler. Denk bv. aan de bestrijding van criminaliteit,
+                de verbetering van de gezondheidszorg, armoedebestrijding, de reductie van milieuproblemen, en het beter
+                regelen van de oudedagsvoorziening. We willen u graag een vraag stellen over klimaatverandering. Stelt u
+                zich eens voor dat er een nieuwe technologie bestaat die ervoor zorgt dat ons klimaat niet verder
+                verslechtert. Wat zou u per maand willen betalen om bij te dragen aan de financiering van deze
+                technologie?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1488</identifier>
+            <questionname>aa114</questionname>
+            <language>en</language>
+            <questiontext>We have one final question to you on a completely different topic. Our society faces many
+                problems that are quite frequently discussed in the media there days. Addressing these problems will
+                involve money that, finally, will be paid by you the taxpayer. These problems include the reduction of
+                crime, reducing environmental problems, the improvement of health care, the improvement of income
+                security, and pension reform, among others. We have a question to you about climate change. There is
+                wide agreement that it will require joint efforts of all countries in the world to get the possible
+                dangers of climate change under control. Suppose that there exists a new technology that will make sure
+                that our climate does not deteriorate. What were you willing to pay monthly to contribute to financing
+                this technology?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1488</identifier>
+            <questionname>aa114</questionname>
+            <language>nl</language>
+            <questiontext>Deze allerlaatste vraag gaat over een heel ander onderwerp. Onze maatschappij kent vele
+                problemen die vaak besproken worden in de media. Om deze problemen aan te pakken is geld nodig dat,
+                uiteindelijk, betaald wordt door u als belastingbetaler. Denk bv. aan de bestrijding van criminaliteit,
+                de verbetering van de gezondheidszorg, armoedebestrijding, de reductie van milieuproblemen, en het beter
+                regelen van de oudedagsvoorziening. We willen u graag een vraag stellen over klimaatverandering. Er is
+                algehele overeenstemming dat alle landen in de wereld zich gezamelijk in moeten spannen om de mogelijke
+                gevaren onder controle te krijgen. Stelt u zich eens voor dat er een nieuwe technologie bestaat die
+                ervoor zorgt dat ons klimaat niet verder verslechtert. Wat zou u per maand willen betalen om bij te
+                dragen aan de financiering van deze technologie?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1489</identifier>
+            <questionname>aa115</questionname>
+            <language>en</language>
+            <questiontext>We have on final question to you on a completely different topic: Climate change. The risks of
+                climate change and global warming are heavily discussed in the media these days. Suppose that there
+                exists a new technology that will make sure that our climate does not deteriorate. Suppose that, on
+                average, people like you pay ^aa057 euro per month to contribute to financing this technology. What
+                would you
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1489</identifier>
+            <questionname>aa115</questionname>
+            <language>nl</language>
+            <questiontext>Deze allerlaatste vraag gaat over een heel ander onderwerp: klimaatverandering. De risico's
+                van klimaatverandering en het broeikaseffect worden vaak besproken in de media. Stelt u zich eens voor
+                dat er een nieuwe technologie bestaat die ervoor zorgt dat ons klimaat niet verder verslechtert. Stel u
+                voor dat, gemiddeld gezien, mensen ^aa057 euro per maand willen bijdragen aan de financiering van deze
+                technologie. Wat zou u per maand willen betalen om bij te dragen aan de financiering van deze
+                technologie?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1490</identifier>
+            <questionname>aa116</questionname>
+            <language>en</language>
+            <questiontext>We have one final question to you on a completely different topic: Climate change.The risks of
+                climate change and global warming are heavily discussed in the media these days, and there is wide
+                agreement that it will require joint efforts of all countries in the world to get the possible dangers
+                under control. Suppose that there exists a new technology that will make sure that our climate does not
+                deteriorate. Suppose that, on average, people like you pay ^aa057 euro per month to contribute to
+                financing this technology. What would you&amp;lt;
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1490</identifier>
+            <questionname>aa116</questionname>
+            <language>nl</language>
+            <questiontext>Deze allerlaatste vraag gaat over een heel ander onderwerp: klimaatverandering. De risico's
+                van klimaatverandering en het broeikaseffect worden vaak besproken in de media. Er is algehele
+                overeenstemming dat alle landen in de wereld zich gezamelijk in moeten spannen om de mogelijke gevaren
+                onder controle te krijgen. Stel u voor dat er een nieuwe technologie bestaat die ervoor zorgt dat ons
+                klimaat niet verder verslechtert. Stelt u zich voor dat, gemiddeld gezien, mensen ^ aa057 euro per maand
+                willen bijdragen aan de financiering van deze technologie. Wat zou u per maand willen betalen om bij te
+                dragen aan de financiering van deze technologie?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1491</identifier>
+            <questionname>aa117</questionname>
+            <language>en</language>
+            <questiontext>We have one final question to you on a comletely different topic. Our society faces many
+                problems that are quite frequently discussed in the media these days. Addressing these problems will
+                involve money that, finally, will be paid by you the taxpayer. These problems include the reduction of
+                crime, reducing envirionmental problems, the improvement of health care, the improvement of income
+                security, and pension reform, among others. We have a question to you about climate change. Suppose that
+                there exists a new technology that will make sure that our climate does not deteriorate. Suppose that,
+                on average, people like you pay ^aa057 euro per month to contribute to financing this technology. What
+                would you be willing to pay to contribute to financing this technology?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1491</identifier>
+            <questionname>aa117</questionname>
+            <language>nl</language>
+            <questiontext>Deze allerlaatste vraag gaat over een heel ander onderwerp. Onze maatschappij kent vele
+                problemen die vaak besproken worden in de media. Om deze problemen aan te pakken is geld nodig dat,
+                uiteindelijk, betaald wordt door u als belastingbetaler. Denk bv. aan de bestrijding van criminaliteit,
+                de verbetering van de gezondheidszorg, armoedebestrijding, de reductie van milieuproblemen, en het beter
+                regelen van de oudedagsvoorziening. We willen u graag een vraag stellen over klimaatverandering. Stel u
+                voor dat er een nieuwe technologie bestaat die ervoor zorgt dat ons klimaat niet verder verslechtert.
+                Stelt u zich voor dat, gemiddeld gezien, mensen ^ aa057 euro per maand willen bijdragen aan de
+                financiering van deze technologie. Wat zou u per maand willen betalen om bij te dragen aan de
+                financiering van deze technologie?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1492</identifier>
+            <questionname>aa118</questionname>
+            <language>en</language>
+            <questiontext>We have one final question to you on a completely different topic. Our society faces many
+                problems that are quite frequently discussed in the media these days. Addressing these problems will
+                involve money that, finally, will be paid by you the taxpayer. These problems include the reduction of
+                crime, reducing environmental problems, the improvement of health care, the improvement of income
+                security, and pension reform, among others. We have a question to you about climate change. There is
+                wide agreement that it will require joint efforts of all countries in the world to get the possible
+                dangers of climate change under control. Suppose that there exists a new technology that will make sure
+                that our climate does not deteriorate. Suppose that, on average, people like you pay ^aa057 euro per
+                month to contribute to financing this technology. What would you be willing to pay to contribute to
+                financing this technology?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1492</identifier>
+            <questionname>aa118</questionname>
+            <language>nl</language>
+            <questiontext>Deze allerlaatste vraag gaat over een heel ander onderwerp. Onze maatschappij kent vele
+                problemen die vaak besproken worden in de media. Om deze problemen aan te pakken is geld nodig dat,
+                uiteindelijk, betaald wordt door u als belastingbetaler. Denk bv. aan de bestrijding van criminaliteit,
+                de verbetering van de gezondheidszorg, armoedebestrijding, de reductie van milieuproblemen, en het beter
+                regelen van de oudedagsvoorziening. We willen u graag een vraag stellen over klimaatverandering. Er is
+                algehele overeenstemming dat alle landen in de wereld zich gezamelijk in moeten spannen om de mogelijke
+                gevaren onder controle te krijgen. Stel u voor dat er een nieuwe technologie bestaat die ervoor zorgt
+                dat ons klimaat niet verder verslechtert. Stelt u zich voor dat, gemiddeld gezien, mensen ^ aa057 euro
+                per maand willen bijdragen aan de financiering van deze technologie. Wat zou u per maand willen betalen
+                om bij te dragen aan de financiering van deze technologie?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1493</identifier>
+            <questionname>aa119</questionname>
+            <language>en</language>
+            <questiontext>We have one final question to you on a completely different topic: Climate change. The risks
+                of climate change and global warming are heavily discussed in the media these days. Suppose that there
+                exists a new technology that will make sure that our climate does not deteriorate. Suppose that, on
+                average, people like you pay ^aa058 euro per month to contribute to financing this technology. What
+                would you be willing to pay to contribute to financing this technology?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1493</identifier>
+            <questionname>aa119</questionname>
+            <language>nl</language>
+            <questiontext>Deze allerlaatste vraag gaat over een heel ander onderwerp: klimaatverandering. De risico's
+                van klimaatverandering en het broeikaseffect worden vaak besproken in de media. Stelt u zich eens voor
+                dat er een nieuwe technologie bestaat die ervoor zorgt dat ons klimaat niet verder verslechtert. Stel u
+                voor dat, gemiddeld gezien, mensen ^ aa058 euro per maand willen bijdragen aan de financiering van deze
+                technologie. Wat zou u per maand willen betalen om bij te dragen aan de financiering van deze
+                technologie?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1494</identifier>
+            <questionname>aa120</questionname>
+            <language>en</language>
+            <questiontext>We have one final question to you on a completely different topic: Climate change. The risks
+                of climate change and global warming are heavily discussed in the media these days, and there is wide
+                agreement that it will require joint efforts of all countries in the world to get the possible dangers
+                under control. Suppose that there exists a new technology that will make sure that our climate does not
+                deteriorate. Suppose that, on average, people like you pay ^aa058 euro per month to contribute to
+                financing this technology. What would you be willing to pay to contribute to financing this technology?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1494</identifier>
+            <questionname>aa120</questionname>
+            <language>nl</language>
+            <questiontext>Deze allerlaatste vraag gaat over een heel ander onderwerp: klimaatverandering. De risico's
+                van klimaatverandering en het broeikaseffect worden vaak besproken in de media. Er is algehele
+                overeenstemming dat alle landen in de wereld zich gezamelijk in moeten spannen om de mogelijke gevaren
+                onder controle te krijgen. Stel u voor dat er een nieuwe technologie bestaat die ervoor zorgt dat ons
+                klimaat niet verder verslechtert. Stelt u zich voor dat, gemiddeld gezien, mensen ^ aa058 euro per maand
+                willen bijdragen aan de financiering van deze technologie. Wat zou u per maand willen betalen om bij te
+                dragen aan de financiering van deze technologie?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1495</identifier>
+            <questionname>aa121</questionname>
+            <language>en</language>
+            <questiontext>We have one final question to you on a completely different topic. Our society faces many
+                problems that are quite frequently discussed in the media these days. Addressing these problems will
+                involve money that, finally, will be paid by you the taxpayer. These problems include the reduction of
+                crime, reducing environmental problems, the improvement of health care, the improvement of income
+                security, and pension reform, among others. We have a question to you about climate change. Suppose that
+                there exists a new technology that will make sure that our climate does not deteriorate. Suppose that,
+                on average, people like you pay ^aa058 euro per month to contribute to financing this technology. What
+                would you be willing to pay to contribute to financing this technology?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1495</identifier>
+            <questionname>aa121</questionname>
+            <language>nl</language>
+            <questiontext>Deze allerlaatste vraag gaat over een heel ander onderwerp. Onze maatschappij kent vele
+                problemen die vaak besproken worden in de media. Om deze problemen aan te pakken is geld nodig dat,
+                uiteindelijk, betaald wordt door u als belastingbetaler. Denk bv. aan de bestrijding van criminaliteit,
+                de verbetering van de gezondheidszorg, armoedebestrijding, de reductie van milieuproblemen, en het beter
+                regelen van de oudedagsvoorziening. We willen u graag een vraag stellen over klimaatverandering. Stel u
+                voor dat er een nieuwe technologie bestaat die ervoor zorgt dat ons klimaat niet verder verslechtert.
+                Stelt u zich voor dat, gemiddeld gezien, mensen ^ aa058 euro per maand willen bijdragen aan de
+                financiering van deze technologie. Wat zou u per maand willen betalen om bij te dragen aan de
+                financiering van deze technologie?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1496</identifier>
+            <questionname>aa122</questionname>
+            <language>en</language>
+            <questiontext>We have one final question to you on a completely different topic. Our society faces many
+                problems that are quite frequently discussed in the media these days. Adressing these problems will
+                involve money that, finally, will be paid by you the taxpayer. These problems include the reduction of
+                crime, reducing environmental problems, the improvement of health care, the improvement of income
+                security, and pension reform, among others. We have a question to you about climate change. There is
+                wide agreement that it will require joint efforts of all countries in the world to get the possible
+                dangers of climate change under control. Suppose that there exists a new technology that will make sure
+                that our climate does not deteriorate. Suppose that, on average, people like you pay ^aa058 euro per
+                month to contribute to financing this technology. What would you be willing to pay to contribute to
+                financing this technology?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1496</identifier>
+            <questionname>aa122</questionname>
+            <language>nl</language>
+            <questiontext>Deze allerlaatste vraag gaat over een heel ander onderwerp. Onze maatschappij kent vele
+                problemen die vaak besproken worden in de media. Om deze problemen aan te pakken is geld nodig dat,
+                uiteindelijk, betaald wordt door u als belastingbetaler. Denk bv. aan de bestrijding van criminaliteit,
+                de verbetering van de gezondheidszorg, armoedebestrijding, de reductie van milieuproblemen, en het beter
+                regelen van de oudedagsvoorziening. We willen u graag een vraag stellen over klimaatverandering. Er is
+                een algehele mening dat alle landen in de wereld zich gezamelijk in moeten spannen om de mogelijke
+                gevaren onder controle te krijgen. Stelt u zich eens voor dat er een nieuwe technologie bestaat die
+                ervoor zorgt dat ons klimaat niet verder verslechtert. Stel u voor dat, gemiddeld gezien, mensen ^ aa058
+                euro per maand willen bijdragen aan de financiering van deze technologie. Wat zou u per maand willen
+                betalen om bij te dragen aan de financiering van deze technologie?
+            </questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1497</identifier>
+            <questionname>aa123-aa127</questionname>
+            <language>en</language>
+            <questiontext>Definitely. What is your opinion about these questions.</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+        <question>
+            <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1497</identifier>
+            <questionname>aa123-aa127</questionname>
+            <language>nl</language>
+            <questiontext>Tot slot. Wat vond u van deze vragenlijst:</questiontext>
+            <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/24</studyunit>
+        </question>
+    </questions>
+</record>

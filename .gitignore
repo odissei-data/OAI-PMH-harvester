@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ODISSEI LISS specific
+liss-data
+liss-data/*
+.idea
+.idea/*

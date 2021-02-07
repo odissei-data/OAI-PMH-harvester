@@ -1,0 +1,243 @@
+<?xml version="1.0" standalone="yes" ?>
+<questions>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1137</identifier>
+        <questionname>{intro}</questionname>
+        <language>en</language>
+        <questiontext>This questionnaire is about your expectations for the future over the next 25 years.  </questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1137</identifier>
+        <questionname>{intro}</questionname>
+        <language>nl</language>
+        <questiontext>Deze vragenlijst gaat over uw toekomstverwachtingen in de komende 25 jaar.</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1140</identifier>
+        <questionname>am003</questionname>
+        <language>en</language>
+        <questiontext>When you think about the Netherlands during the next 25 years, are you optimistic or pessimistic?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1140</identifier>
+        <questionname>am003</questionname>
+        <language>nl</language>
+        <questiontext>Als u denkt aan Nederland in de komende 25 jaar, bent u dan optimistisch of pessimistisch?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1141</identifier>
+        <questionname>am004</questionname>
+        <language>en</language>
+        <questiontext>Can you indicate why you are [am003] about the Netherlands during the next 25 years?  </questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1141</identifier>
+        <questionname>am004</questionname>
+        <language>nl</language>
+        <questiontext>Kunt u aangeven waarom u [am003] bent over Nederland in de komende 25 jaar?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1142</identifier>
+        <questionname>am005</questionname>
+        <language>en</language>
+        <questiontext>When you think about your personal life during the next 25 years, are you optimistic or pessimistic?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1142</identifier>
+        <questionname>am005</questionname>
+        <language>nl</language>
+        <questiontext>Als u aan uw persoonlijke leven in de komende 25 jaar denkt, bent u dan optimistisch of pessimistisch?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1143</identifier>
+        <questionname>am006</questionname>
+        <language>en</language>
+        <questiontext>Can you indicate why you are [am005] about your personal life during the next 25 years? </questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1143</identifier>
+        <questionname>am006</questionname>
+        <language>nl</language>
+        <questiontext>Kunt u aangeven waarom u [am005] bent over uw persoonlijke leven in de komende 25 jaar?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1138</identifier>
+        <questionname>am007-am018</questionname>
+        <language>en</language>
+        <questiontext>On the following two screens you will see a number of social phenomena and issues. Please indicate for each of these items whether you expect that these will decrease, will remain the same or will increase in the Netherlands, during the next 25 years.</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1138</identifier>
+        <questionname>am007-am018</questionname>
+        <language>nl</language>
+        <questiontext>U ziet op de volgende twee schermen een aantal maatschappelijke verschijnselen en problemen. Kunt u voor elk van deze verschijnselen/problemen aangeven of u denkt dat deze in de komende 25 jaar in Nederland afnemen, gelijkblijven of toenemen?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1139</identifier>
+        <questionname>am019-am027</questionname>
+        <language>en</language>
+        <questiontext>Will the following phenomena/issues decrease, increase or remain the same in the Netherlands?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1139</identifier>
+        <questionname>am019-am027</questionname>
+        <language>nl</language>
+        <questiontext>Nemen de volgende verschijnselen/problemen in Nederland af, toe of blijven ze gelijk?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1146</identifier>
+        <questionname>am028</questionname>
+        <language>en</language>
+        <questiontext>When I think about the future of the Netherlands and of the world, I think about events in …</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1146</identifier>
+        <questionname>am028</questionname>
+        <language>nl</language>
+        <questiontext>Als ik aan de toekomst van Nederland en de wereld denk, dan denk ik aan gebeurtenissen in…</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1147</identifier>
+        <questionname>am029</questionname>
+        <language>en</language>
+        <questiontext>What are the good things from the past 25 years that you would wish to take into the next 25 years?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1147</identifier>
+        <questionname>am029</questionname>
+        <language>nl</language>
+        <questiontext>Welke goede dingen uit de afgelopen 25 jaar zou u naar de komende 25 jaar mee willen nemen?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1148</identifier>
+        <questionname>am030</questionname>
+        <language>en</language>
+        <questiontext>What are the bad things from the past 25 years that you would not wish to take into the next 25 years?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1148</identifier>
+        <questionname>am030</questionname>
+        <language>nl</language>
+        <questiontext>Welke slechte dingen uit de afgelopen 25 jaar wilt u niet meenemen naar de komende 25 jaar?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1149</identifier>
+        <questionname>am031</questionname>
+        <language>en</language>
+        <questiontext>When I think about the future of my own life, I think about events in …</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1149</identifier>
+        <questionname>am031</questionname>
+        <language>nl</language>
+        <questiontext>Als ik aan de toekomst van mijn eigen leven denk, dan denk ik aan gebeurtenissen in…</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1151</identifier>
+        <questionname>am032-am044</questionname>
+        <language>en</language>
+        <questiontext>To what extent do you agree or disagree with the following statements?  1=strongly agree   2=agree   3=neither agree nor disagree   4=disagree   5=strongly disagree   6=never thought about it </questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1151</identifier>
+        <questionname>am032-am044</questionname>
+        <language>nl</language>
+        <questiontext>Hoe eens of oneens bent u het met de volgende uitspraken?  1=zeer mee eens  2=mee eens   3=niet mee eens, niet mee oneens   4=mee oneens   5=zeer mee oneens   6=nooit over nagedacht </questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1678</identifier>
+        <questionname>am045</questionname>
+        <language>en</language>
+        <questiontext>How do you deal with the future of your own life?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1678</identifier>
+        <questionname>am045</questionname>
+        <language>nl</language>
+        <questiontext>Hoe gaat u met de toekomst van uw eigen leven om?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1681</identifier>
+        <questionname>am046</questionname>
+        <language>en</language>
+        <questiontext>Below is a list of feeling that people may have about the future during the next 25 years. Which of these feelings best describes what you feel personally, when you think about the future during the next 25 years?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1681</identifier>
+        <questionname>am046</questionname>
+        <language>nl</language>
+        <questiontext>Hieronder staan enkele gevoelens die men over de toekomst in de komende 25 jaar kan hebben. Welk gevoel beschrijft het best wat u persoonlijk voelt als u denkt aan de toekomst in de komende 25 jaar?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1683</identifier>
+        <questionname>am047</questionname>
+        <language>en</language>
+        <questiontext>What gives you a feeling of [am046]?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1683</identifier>
+        <questionname>am047</questionname>
+        <language>nl</language>
+        <questiontext>Waardoor hebt u een gevoel van [am046]?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1687</identifier>
+        <questionname>am048</questionname>
+        <language>en</language>
+        <questiontext>What other feeling do you have when you think about the future during the next 25 years, and can you tell us a bit more about this feeling?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1687</identifier>
+        <questionname>am048</questionname>
+        <language>nl</language>
+        <questiontext>Welk ander gevoel hebt u als u denkt aan de toekomst in de komende 25 jaar en kunt u iets meer over dit gevoel vertellen?</questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1692</identifier>
+        <questionname>am049-am053</questionname>
+        <language>en</language>
+        <questiontext>Please complete the questionnaire until you reach the starting screen again. Only then will the system register the questionnaire as being completely filled out. What did you think of this questionnaire:  1 = definitely not 5 = definitely so </questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+    <question>
+        <identifier>https://www.dataarchive.lissdata.nl/question_constructs/view/1692</identifier>
+        <questionname>am049-am053</questionname>
+        <language>nl</language>
+        <questiontext>NB: Maakt u alstublieft de vragenlijst af totdat u weer bij het beginscherm komt.Pas dan registreert het systeem de vragenlijst als volledig ingevuld. Tot slot. Wat vond u van deze vragenlijst:  1 = beslist niet 5 = beslist wel </questiontext>
+        <studyunit>https://www.dataarchive.lissdata.nl/study_units/view/26</studyunit>
+    </question>
+</questions>
+
+
