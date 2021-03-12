@@ -128,8 +128,14 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# editor specific
+.idea
+.idea/*
+
 # ODISSEI LISS specific
 liss-data
 liss-data/*
-.idea
-.idea/*
+
+# ODISSEI EASY specific
+easy-data
+easy-data/*

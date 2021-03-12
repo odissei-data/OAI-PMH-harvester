@@ -6,5 +6,5 @@ services:
       tty: true
       command: /tmp/harvester_src/src/main/scripts/do-harvester.sh
       volumes:
-        - ./liss-data:/var/harvester
-        - ./harvester/config.xml:/tmp/harvester_src/src/main/scripts/config.xml
+        - ${DATA_FOLDER}:/var/harvester
+        - ${HARVESTER_CONFIG}:/tmp/harvester_src/src/main/scripts/config.xml
