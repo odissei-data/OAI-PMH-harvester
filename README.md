@@ -11,3 +11,7 @@ https://www.oai-pmh.centerdata.nl/lissdata/oai2.php?verb=ListRecords&metadataPre
 ### PHP XML
 https://www.oai-pmh.centerdata.nl/lissdata/question_texts.php?id=24
 
+The output of this process can be used by the SEMAF-Client
+
+To run this tool, simply `docker-compose up`
+
